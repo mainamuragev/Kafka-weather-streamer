@@ -21,7 +21,7 @@ A real-time weather streaming pipeline built with Python and Apache Kafka. It fe
 
 ##  Setup Instructions
 
-### 1. Clone the Repo
+### 1. CLONE 
 
  ##Create and Activate Virtual Environment
 python3 -m venv venv
@@ -57,7 +57,7 @@ Built and tested in Nairobi, Kenya—this project showcases how global APIs and 
 - kafka-python
 - requests
 
-Built by Maina Murage — mechanical engineer pivoting into software/data engineering. Passionate about smart infrastructure, reproducible workflows, and Nairobi’s car culture.
+Built by Maina Murage — mechanical engineer pivoting into software/data engineering. Passionate about smart infrastructure, reproducible workflows.
 
 
 
